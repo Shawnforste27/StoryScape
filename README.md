@@ -8,9 +8,9 @@ it allows readers to explore personalized story paths and endings — all genera
 With a scalable backend and elegant frontend, StoryScape brings storytelling into the future.
 
 Tech Stack
-ackend	FastAPI, SQLAlchemy, SQLite/PostgreSQL
-Story Engine	Custom logic with optional GPT/LLM
-Persistence	Cookie-based sessions, background tasks
+Backend - FastAPI, SQLAlchemy, Pydantic,
+StoryEngine - Custom logic with optional GPT/LLM
+Persistence - Cookie-based sessions, background tasks
 
 Swagger UI
 
